@@ -1,4 +1,4 @@
-# hkoi
+# HKOI
 A repository to store my HKOI Judge codes.
 
 Current finished projects:
