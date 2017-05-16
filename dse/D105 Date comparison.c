@@ -1,32 +1,30 @@
-//unfinished
-#include<stdio.h>
+#include <stdio.h>
 int main(){
-    int y1,m1,d1,y2,m2,d2;
-    scanf("%d %d %d",&y1,&m1,&d1);
-    scanf("%d %d %d",&y2,&m2,&d2);
-    if(y2<y1){
-        printf("After");
-    }
-    else if (y2>y1){
+    int ya,ma,da,yb,mb,db;
+    scanf("%d%d%d",&ya,&ma,&da);
+    scanf("%d%d%d",&yb,&mb,&db);
+    if(ya<yb){
         printf("Before");
     }
-    else {
-        if(m1<m2){
-            printf("After");
-        }
-        else if (m1>m2){
+    else if(ya>yb){
+        printf("After");
+    }
+    else{
+        if(ma<mb){
             printf("Before");
         }
-        else {
-            if(d1<d2){
-                printf("After");
-            }
-            else if (d1<d2){
+        else if(ma>mb){
+            printf("After");
+        }
+        else{
+            if(da<db){
                 printf("Before");
             }
-            else{
-                printf("Same");
+            else if(da>db){
+                printf("After");
             }
+            else
+                printf("Same");
         }
     }
     return 0;
