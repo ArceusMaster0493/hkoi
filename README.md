@@ -14,3 +14,5 @@ Current finished projects:
 * Mini-comp Past Paper (mini-comp)
   * M1601 Valentine Day of Week
   * M17A3 A+B or A-B?
+* HKOI Volume 1 (hkoi-1)
+  * 01006 Octopus
