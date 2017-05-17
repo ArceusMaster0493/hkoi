@@ -2,7 +2,7 @@
 A repository to store my HKOI Judge codes.
 
 ### notes
-* MxxAx refers to the April Fool's Contest series.
+* MxxAx refers to the April Fool's Contest series. The tasks in the series are rather challenging.
 
 ### current finished projects
 * DSE Exercises (dse)
