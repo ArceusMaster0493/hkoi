@@ -2,7 +2,8 @@
 A repository to store my HKOI Judge codes.
 
 ### notes
-* MxxAx refers to the April Fool's Contest series. The tasks in the series are rather challenging.
+* Mxx0x refers to the Valentine's Day series which began in 2015. All tasks are related to someone you love.
+* MxxAx refers to the April Fool's Contest series which began in 2016. The tasks in the series are rather challenging.
 
 ### current finished projects
 * DSE Exercises (dse)
