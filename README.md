@@ -11,6 +11,7 @@ A repository to store my HKOI Judge codes.
   * [D101 Phone number](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D101%20Phone%20number.c)
   * [D104 Roots of quadratic equation](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D104%20Roots%20of%20quadratic%20equation.c)
   * [D105 Date comparison](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D105%20Date%20comparison.c)
+  * [D106 Ordinal number](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D106%20Ordinal%20number.c)
   * [D109 Giving changes](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D109%20Giving%20changes.c)
   * [D201 Fibonacci numbers](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D201%20Fibonacci%20numbers.c)
   * [D302 String length and words](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D302%20String%20length%20and%20words.c)
