@@ -21,6 +21,6 @@ A repository to store my HKOI Judge codes.
 * HKOI Volume 1 (hkoi-1)
   * [01006 Octopus](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01006%20Octopus.c)
 
-## projects in progress
+### projects in progress
 * HKOI Volume 1 (hkoi-1)
   * [01005 Napster Cheating](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01005%20Napster%20Cheating.c)
