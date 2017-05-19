@@ -2,8 +2,8 @@
 A repository to store my HKOI Judge codes.
 
 ### notes
-* Mxx0x refers to the Valentine's Day series which began in 2015. All tasks are related to someone you love.
-* MxxAx refers to the April Fool's Contest series which began in 2016. The tasks in the series are rather challenging.
+* M150x and M160x refers to the Valentine's Day series which was held in 2015 and 2016. All tasks are related to someone you love.
+* M17Ax refers to the April Fool's Contest series which was held in 2017. The tasks in the series are rather challenging. The answers to these tasks can be found on http://assets.hkoi.org/training2017/2017-aprilfools.pdf, but I strongly discourage you to do so.
 
 ### current finished projects
 * DSE Exercises (dse)
