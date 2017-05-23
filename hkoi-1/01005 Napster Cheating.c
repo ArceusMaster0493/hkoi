@@ -1,14 +1,14 @@
-//unfinished
 #include<stdio.h>
 #include<string.h>
 int main(){
-    int i;
-    char s[99],tmp[2];
-    scanf("%[^.mp3]s",&s);
-    for(i=0;i<99;i++){
-        tmp[0]=s[i];
-
-        s[strlen(s)-1]=tmp[0];
+    char p[9999],q[9999];
+    int c,d,i;
+    gets(p);
+    c=strlen(p)-4;
+    d=c-1;
+    for(i=0;i<c+2;d--,i++){
+        q[i]=p[d];
     }
+    printf("%s.mp3",q);
     return 0;
 }
