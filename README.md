@@ -23,8 +23,5 @@ A repository to store my HKOI Judge codes.
   * [M17A0 Terms and Conditions](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A0%20Terms%20and%20Conditions.c)
   * [M17A3 A+B or A-B?](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A3%20A%2BB%20or%20A-B%3F.c)
 * HKOI Volume 1 (hkoi-1)
-  * [01006 Octopus](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01006%20Octopus.c)
-
-### projects in progress
-* HKOI Volume 1 (hkoi-1)
   * [01005 Napster Cheating](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01005%20Napster%20Cheating.c)
+  * [01006 Octopus](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01006%20Octopus.c)
