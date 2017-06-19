@@ -19,6 +19,7 @@ A repository to store my HKOI Judge codes.
   * [D201 Fibonacci numbers](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D201%20Fibonacci%20numbers.c)
   * [D203 Clap 7](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D203%20Clap%207.c)
   * [D206 3n+1 problem](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D206%203n%2B1%20problem.c)
+  * [D207 GCD and LCM](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D207%20GCD%20and%20LCM.c)
   * [D302 String length and words](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D302%20String%20length%20and%20words.c)
 * Mini-comp Past Paper (mini-comp)
   * [M1601 Valentine Day of Week](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1601%20Valentine%20Day%20of%20Week.c)
