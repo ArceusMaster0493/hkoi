@@ -34,3 +34,4 @@ A repository to store my HKOI Judge codes.
   * [01005 Napster Cheating](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01005%20Napster%20Cheating.c)
   * [01006 Octopus](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01006%20Octopus.c)
   * [01061 Record Validator](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01061%20Record%20Validator.c)
+  * [WIP / 01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/%5Bwip%5D01090%20Diligent.c)
