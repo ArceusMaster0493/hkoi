@@ -7,6 +7,10 @@ A repository to store my HKOI Judge codes.
 * M170x are tasks related to a Korean girl group GFRIEND (여자친구).
 * M17Ax refers to the April Fool's Contest series which was held in 2017. The tasks in the series are rather challenging. The answers to these tasks can be found on http://assets.hkoi.org/training2017/2017-aprilfools.pdf, but I strongly discourage you to do so.
 
+### projects currently working on
+* HKOI Voumme 1 (`hkoi-1`)
+  * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/%5Bwip%5D01090%20Diligent.c)
+
 ### current finished projects
 * DSE Exercises (`dse`)
   * [D100 Calculate A+B](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D100%20Calculate%20A%2BB.c)
@@ -34,4 +38,3 @@ A repository to store my HKOI Judge codes.
   * [01005 Napster Cheating](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01005%20Napster%20Cheating.c)
   * [01006 Octopus](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01006%20Octopus.c)
   * [01061 Record Validator](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01061%20Record%20Validator.c)
-  * [WIP / 01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/%5Bwip%5D01090%20Diligent.c)
