@@ -4,11 +4,11 @@ A repository to store my HKOI Judge codes.
 ### notes
 * you are free to use any of my code in this repository. However, it is yourself to blame for forfeiting a chance to learn.
 * M150x and M160x refer to the Valentine's Day series which was held in 2015 and 2016. All tasks are related to someone you love.
-* M170x are tasks related to a Korean girl group GFRIEND (여자친구).
+* M170x are tasks related to a Korean girl group named GFRIEND (여자친구).
 * M17Ax refers to the April Fool's Contest series which was held in 2017. The tasks in the series are rather challenging. The answers to these tasks can be found on http://assets.hkoi.org/training2017/2017-aprilfools.pdf, but I strongly discourage you to do so.
 
 ### projects currently working on
-* HKOI Voumme 1 (`hkoi-1`)
+* HKOI Volume 1 (`hkoi-1`)
   * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/%5Bwip%5D01090%20Diligent.c)
 
 ### current finished projects
