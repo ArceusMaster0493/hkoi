@@ -9,7 +9,7 @@ A repository to store my HKOI Judge codes.
 
 ### projects currently working on
 * HKOI Volume 1 (`hkoi-1`)
-  * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/%5Bwip%5D01090%20Diligent.c)
+  * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01090%20Diligent.c)
 
 ### current finished projects
 * DSE Exercises (`dse`)
