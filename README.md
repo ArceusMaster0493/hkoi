@@ -9,6 +9,7 @@ A repository to store my HKOI Judge codes.
 
 ### projects being worked on
 * HKOI Volume 1 (`hkoi-1`)
+  * [01002 A Counting Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01002%20A%20Counting%20Problem.java)
   * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01090%20Diligent.c)
 
 ### finished projects
