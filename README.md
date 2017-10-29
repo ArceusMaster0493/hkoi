@@ -35,6 +35,7 @@ A repository to store my HKOI Judge codes.
 * Mini-comp Past Paper (`mini-comp`)
   * [M1601 Valentine Day of Week](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1601%20Valentine%20Day%20of%20Week.c)
   * [M17A0 Terms and Conditions](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A0%20Terms%20and%20Conditions.c)
+  * [M17A2 Different Languages](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A2%20Different%20Languages.c)
   * [M17A3 A+B or A-B?](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A3%20A%2BB%20or%20A-B%3F.c)
 * NOIP Past Paper (`noip`)
   * [NP1301 計數問題](https://github.com/ArceusMaster0493/hkoi/blob/master/noip/NP1301%20%E8%A8%88%E6%95%B8%E5%95%8F%E9%A1%8C.c)
