@@ -23,6 +23,7 @@ A repository to store my HKOI Judge codes.
   * [D106 Ordinal number](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D106%20Ordinal%20number.c)
   * [D108 Simple calculator](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D108%20Simple%20calculator.c)
   * [D109 Giving changes](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D109%20Giving%20changes.c)
+  * [D110 King movement](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D110%20King%20movement.c)
   * [D201 Fibonacci numbers](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D201%20Fibonacci%20numbers.c)
   * [D203 Clap 7](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D203%20Clap%207.c)
   * [D206 3n+1 problem](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D206%203n%2B1%20problem.c)
