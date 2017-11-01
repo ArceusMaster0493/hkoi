@@ -28,6 +28,7 @@ A repository to store my HKOI Judge codes.
   * [D206 3n+1 problem](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D206%203n%2B1%20problem.c)
   * [D207 GCD and LCM](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D207%20GCD%20and%20LCM.c)
   * [D208 Maximum and second maximum](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D208%20Maximum%20and%20second%20maximum.c)
+  * [D301 Story generator](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D301%20Story%20generator.c)
   * [D302 String length and words](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D302%20String%20length%20and%20words.c)
   * [D802 Bubble sort](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D802%20Bubble%20sort.c)
 * Junior Past Paper (`junior`)
