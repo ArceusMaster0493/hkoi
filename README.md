@@ -9,7 +9,6 @@ A repository to store my HKOI Judge codes.
 
 ### projects being worked on
 * HKOI Volume 1 (`hkoi-1`)
-  * [01002 A Counting Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01002%20A%20Counting%20Problem.java)
   * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01090%20Diligent.c)
 
 ### finished projects
@@ -44,6 +43,7 @@ A repository to store my HKOI Judge codes.
 * NOIP Past Paper (`noip`)
   * [NP1301 計數問題](https://github.com/ArceusMaster0493/hkoi/blob/master/noip/NP1301%20%E8%A8%88%E6%95%B8%E5%95%8F%E9%A1%8C.c)
 * HKOI Volume 1 (`hkoi-1`)
+  * [01002 A Counting Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01002%20A%20Counting%20Problem.java)
   * [01005 Napster Cheating](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01005%20Napster%20Cheating.c)
   * [01006 Octopus](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01006%20Octopus.c)
   * [01015 Parentheses Balance](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01015%20Parentheses%20Balance.c)
