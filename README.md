@@ -10,6 +10,8 @@ A repository to store my HKOI Judge codes.
 ### projects being worked on
 * DSE Exercises (`dse`)
   * [D702 Stack](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D702%20Stack.c)
+* Junior Past Paper (`junior`)
+  * [J151 Inverse Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J151%20Inverse%20Problem.cpp)
 * HKOI Volume 1 (`hkoi-1`)
   * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01090%20Diligent.c)
 
@@ -35,6 +37,7 @@ A repository to store my HKOI Judge codes.
   * [D501 Heung Shing Bank](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D501%20Heung%20Shing%20Bank.c)
   * [D802 Bubble sort](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D802%20Bubble%20sort.c)
 * Junior Past Paper (`junior`)
+  * [J151 Inverse Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J151%20Inverse%20Problem.cpp)
   * [J024 Statistical Analysis](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J024%20Statistic%20Analysis.c)
 * Senior Past Paper (`senior`)
   * [S140 Enumeration (2014 Senior)](https://github.com/ArceusMaster0493/hkoi/blob/master/senior/S140%20Enumeration%20(2014%20Senior).c)
