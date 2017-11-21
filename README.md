@@ -12,8 +12,6 @@ A repository to store my HKOI Judge codes.
   * [D702 Stack](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D702%20Stack.c)
 * Junior Past Paper (`junior`)
   * [J151 Inverse Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J151%20Inverse%20Problem.cpp)
-* HKOI Volume 1 (`hkoi-1`)
-  * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01090%20Diligent.c)
 
 ### finished projects
 * DSE Exercises (`dse`)
@@ -55,3 +53,4 @@ A repository to store my HKOI Judge codes.
   * [01015 Parentheses Balance](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01015%20Parentheses%20Balance.c)
   * [01061 Record Validator](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01061%20Record%20Validator.c)
   * [01030 The Josephus Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01030%20The%20Josephus%20Problem.c)
+  * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01090%20Diligent.java)
