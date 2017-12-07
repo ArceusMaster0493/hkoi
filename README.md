@@ -9,6 +9,7 @@ A repository to store my HKOI Judge codes.
 
 ### projects being worked on
 * DSE Exercises (`dse`)
+  * [D401 Sieve of Eratosthenes](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D401%20Sieve%20of%20Eratosthenes.java)
   * [D702 Stack](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D702%20Stack.c)
 * Junior Past Paper (`junior`)
   * [J151 Inverse Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J151%20Inverse%20Problem.cpp)
