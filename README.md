@@ -33,6 +33,7 @@ A repository to store my HKOI Judge codes.
   * [D208 Maximum and second maximum](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D208%20Maximum%20and%20second%20maximum.c)
   * [D301 Story generator](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D301%20Story%20generator.c)
   * [D302 String length and words](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D302%20String%20length%20and%20words.c)
+  * [D303 String reverse and palindrome](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D303%20String%20reverse%20and%20palindrome.c)
   * [D309 Case-insensitive comparison](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D309%20Case-insensitive%20comparison.java)
   * [D501 Heung Shing Bank](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D501%20Heung%20Shing%20Bank.c)
   * [D802 Bubble sort](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D802%20Bubble%20sort.c)
