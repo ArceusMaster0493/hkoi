@@ -57,4 +57,5 @@ A repository to store my HKOI Judge codes.
   * [01015 Parentheses Balance](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01015%20Parentheses%20Balance.c)
   * [01061 Record Validator](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01061%20Record%20Validator.c)
   * [01030 The Josephus Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01030%20The%20Josephus%20Problem.c)
+  * [01062 Word Comparison](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01062%20Word%20Comparison.c)
   * [01090 Diligent](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01090%20Diligent.java)
