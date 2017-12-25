@@ -47,6 +47,7 @@ A repository to store my HKOI Judge codes.
   * [M17A2 Different Languages](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A2%20Different%20Languages.c)
   * [M17A3 A+B or A-B?](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A3%20A%2BB%20or%20A-B%3F.c)
   * [M17A6 Morse's Circle](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A6%20Morse's%20Circle.c)
+  * [M17A9 Go to School by Bus](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A9%20Go%20to%20School%20by%20Bus.cpp)
 * NOIP Past Paper (`noip`)
   * [NP1301 計數問題](https://github.com/ArceusMaster0493/hkoi/blob/master/noip/NP1301%20%E8%A8%88%E6%95%B8%E5%95%8F%E9%A1%8C.c)
 * HKOI Volume 1 (`hkoi-1`)
