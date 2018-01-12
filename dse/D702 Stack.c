@@ -1,51 +1,37 @@
 #include<stdio.h>
-#include<string.h>
+#define SIZE 1001
+int point=-1,stack[SIZE];
+void add(int input){
+    point=point+1;
+    stack[point]=input;
+}
+void removee(){
+    stack[point]='\0';
+    point=point-1;
+}
 int main(){
-    int i,n,pointer=-1;
+    int input,n,i;
+    char option[6];
     scanf("%d",&n);
-    int stack[n+1];
-    char cmds[n][20];
-    fflush(stdin);
     for(i=0;i<n;i++){
-        gets(cmds[i]);
-    }
-    for(i=0;i<n;i++){
-//        printf("[DEBUG] %d > %s\n",i,cmds[i]);
-        if(strncmp(cmds[i],"PUSH",4)==0){ //PUSH
-//            printf("[DEBUG] PUSH ENTERED\n");
-            int temp;
-            for(temp=5;temp<21;temp++){
-                cmds[i][temp-5]=cmds[i][temp];
-            }
-            pointer=pointer+1;
-            stack[pointer]=atoi(cmds[i]);
-//            printf("[DEBUG] PUSHED %d TO STACKPOINT %d\n",atoi(cmds[i]),pointer);
-        }
-        else if(strcmp(cmds[i],"TOP")==0){ //TOP
-//            printf("[DEBUG] TOP ENTERED\n");
-            if(pointer==-1){
+        scanf("%s",option);
+        if(strcmp(option,"PUSH")==0){
+            scanf("%d",&input);
+            add(input);
+        }else if(strcmp(option,"TOP")==0){
+            if(point==-1){
                 printf("Empty\n");
+            }else{
+                printf("%d\n"   ,stack[point]);
             }
-            else{
-                printf("%d\n",stack[pointer]);
-            }
-        }
-        else if(strcmp(cmds[i],"SIZE")==0){ //SIZE
-//            printf("[DEBUG] SIZE ENTERED\n");
-            printf("%d\n",pointer+1);
-        }
-        else if(strcmp(cmds[i],"POP")==0){ //POP
-//            printf("[DEBUG] POP ENTERED\n");
-            if(pointer==-1){
+        }else if(strcmp(option,"POP")==0){
+            if(point==-1){
                 printf("Cannot pop\n");
+            }else{
+                removee();
             }
-            else{
-                stack[pointer]='\0';
-                pointer=pointer-1;
-            }
-        }
-        else{
-//            printf("[DEBUG] WHY ARE YOU HERE\n");
+        }else{
+            printf("%d\n",point+1);
         }
     }
     return 0;
