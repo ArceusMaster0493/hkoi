@@ -55,6 +55,7 @@ A repository to store my HKOI Judge codes.
   * [01002 A Counting Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01002%20A%20Counting%20Problem.java)
   * [01005 Napster Cheating](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01005%20Napster%20Cheating.c)
   * [01006 Octopus](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01006%20Octopus.c)
+  * [01009 Words](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01009%20Words.c)
   * [01015 Parentheses Balance](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01015%20Parentheses%20Balance.c)
   * [01061 Record Validator](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01061%20Record%20Validator.c)
   * [01030 The Josephus Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01030%20The%20Josephus%20Problem.c)
