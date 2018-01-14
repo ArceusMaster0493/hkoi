@@ -39,6 +39,7 @@ A repository to store my HKOI Judge codes.
   * [D501 Heung Shing Bank](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D501%20Heung%20Shing%20Bank.c)
   * [D701 Queue](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D701%20Queue.c)
   * [D702 Stack](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D702%20Stack.c)
+  * [D703 Linked list: representation](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D703%20Linked%20list:%20representation.c)
   * [D802 Bubble sort](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D802%20Bubble%20sort.c)
 * Junior Past Paper (`junior`)
   * [J024 Statistical Analysis](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J024%20Statistic%20Analysis.c)
