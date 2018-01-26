@@ -13,6 +13,8 @@ A repository to store my HKOI Judge codes.
   * [D401 Sieve of Eratosthenes](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D401%20Sieve%20of%20Eratosthenes.java)
 * Junior Past Paper (`junior`)
   * [J151 Inverse Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J151%20Inverse%20Problem.cpp)
+* Senior Past Paper (`senior`)
+  * [S041 Credit Card](https://github.com/ArceusMaster0493/hkoi/blob/master/senior/S041%20Credit%20Card.c)
 * HKOI Volume 1 (`hkoi-1`)
   * [01068 Moliu Sorting I](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01068%20Moliu%20Sorting%20I.java)
 
