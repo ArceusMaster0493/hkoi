@@ -15,7 +15,7 @@ int main(){
         }
     }
     diff=sumo-sume;
-    printf("diff: %d\n",diff);
+//    printf("diff: %d\n",diff);
     if((diff<=0&&n%2==0)||(diff>=0&&n%2!=0)){
         cd=abs(diff)%11;
     }else{
