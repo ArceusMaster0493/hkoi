@@ -15,6 +15,7 @@ A repository to store my HKOI Judge codes.
   * [J151 Inverse Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J151%20Inverse%20Problem.cpp)
 * Senior Past Paper (`senior`)
   * [S041 Credit Card](https://github.com/ArceusMaster0493/hkoi/blob/master/senior/S041%20Credit%20Card.c)
+  * [S043 Forecasting](https://github.com/ArceusMaster0493/hkoi/blob/master/senior/S043%20Forecasting.c)
 * HKOI Volume 1 (`hkoi-1`)
   * [01068 Moliu Sorting I](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01068%20Moliu%20Sorting%20I.java)
 
