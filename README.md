@@ -3,8 +3,7 @@ A repository to store my HKOI Judge codes.
 
 ### notes
 * you are free to use any of my code in this repository. However, it is yourself to blame for forfeiting a chance to learn.
-* M150x and M160x refer to the Valentine's Day series which was held in 2015 and 2016. All tasks are related to someone you love.
-* M170x are tasks related to a Korean girl group named GFRIEND (여자친구).
+* Mxx0y refer to the Valentine's Day series which was held every year. xx stands for the year and y stands for the task numbers. In partiucular, M170y are tasks related to a Korean girl group named GFRIEND (여자친구).
 * M17Ax refers to the April Fool's Contest series which was held in 2017. The tasks in the series are rather challenging. The answers to these tasks can be found on http://assets.hkoi.org/training2017/2017-aprilfools.pdf, but I strongly discourage you to do so.
 
 ### tasks being worked on
@@ -18,6 +17,7 @@ A repository to store my HKOI Judge codes.
   * [S043 Forecasting](https://github.com/ArceusMaster0493/hkoi/blob/master/senior/S043%20Forecasting.c)
 * Mini-comp Past Paper (`mini-comp`)
   * [M1603 Valentine Kisses](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1603%20Valentine%20Kisses.c)
+  * [M1803 I love you I love you](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1803%20I%20love%20you%20I%20love%20you.java)
 * HKOI Volume 1 (`hkoi-1`)
   * [01068 Moliu Sorting I](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01068%20Moliu%20Sorting%20I.java)
 
@@ -60,6 +60,7 @@ A repository to store my HKOI Judge codes.
   * [M17A3 A+B or A-B?](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A3%20A%2BB%20or%20A-B%3F.c)
   * [M17A6 Morse's Circle](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A6%20Morse's%20Circle.c)
   * [M17A9 Go to School by Bus](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A9%20Go%20to%20School%20by%20Bus.cpp)
+  * [M1801 Two-cube Calendar](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1801%20Two-cube%20Calendar.c)
 * NOIP Past Paper (`noip`)
   * [NP1301 計數問題](https://github.com/ArceusMaster0493/hkoi/blob/master/noip/NP1301%20%E8%A8%88%E6%95%B8%E5%95%8F%E9%A1%8C.c)
 * HKOI Volume 1 (`hkoi-1`)
