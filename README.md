@@ -48,6 +48,7 @@ A repository to store my HKOI Judge codes.
   * [D701 Queue](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D701%20Queue.c)
   * [D702 Stack](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D702%20Stack.c)
   * [D703 Linked list: representation](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D703%20Linked%20list:%20representation.c)
+  * [D801 Binary search](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D801%20Binary%20search.c)
   * [D802 Bubble sort](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D802%20Bubble%20sort.c)
 * Junior Past Paper (`junior`)
   * [J024 Statistical Analysis](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J024%20Statistic%20Analysis.c)
