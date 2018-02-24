@@ -4,7 +4,6 @@ int main(){
     int i,end=1;
     char word[21],input;
     scanf("%s",word);
-    printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
     char display[21];
     strcpy(display,word);
     for(i=0;i<strlen(word);i++){
@@ -12,16 +11,19 @@ int main(){
     }
     do{
         end=1;
-        fflush(stdin);
-        scanf("%c",&input);
+        scanf(" %c",&input);
         for(i=0;i<strlen(word);i++){
             if(word[i]==input){
                 display[i]=input;
-            }else if(display[i]=='_'){
+            }
+            if(display[i]=='_'){
                 end=0;
             }
         }
-        printf("%s\n",display);
+        printf("%s",display);
+        if(end==0){
+            printf("\n");
+        }
     }while(end==0);
     return 0;
 }
