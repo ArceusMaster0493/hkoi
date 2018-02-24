@@ -44,6 +44,7 @@ A repository to store my HKOI Judge codes.
   * [D305 Check digit calculation](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D305%20Check%20digit%20calculation.c)
   * [D307 Tic-tac-toe](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D307%20Tic-tac-toe.c)
   * [D309 Case-insensitive comparison](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D309%20Case-insensitive%20comparison.java)
+  * [D402 Supermarket](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D402%20Supermarket.java)
   * [D501 Heung Shing Bank](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D501%20Heung%20Shing%20Bank.c)
   * [D701 Queue](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D701%20Queue.c)
   * [D702 Stack](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D702%20Stack.c)
