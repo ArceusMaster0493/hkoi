@@ -55,6 +55,7 @@ A repository to store my HKOI Judge codes.
 * Senior Past Paper (`senior`)
   * [S140 Enumeration (2014 Senior)](https://github.com/ArceusMaster0493/hkoi/blob/master/senior/S140%20Enumeration%20(2014%20Senior).c)
 * Mini-comp Past Paper (`mini-comp`)
+  * [M1033 Simple Game](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1033%20Simple%20Game.c)
   * [M1601 Valentine Day of Week](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1601%20Valentine%20Day%20of%20Week.c)
   * [M17A0 Terms and Conditions](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A0%20Terms%20and%20Conditions.c)
   * [M17A2 Different Languages](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A2%20Different%20Languages.c)
