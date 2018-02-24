@@ -18,6 +18,7 @@ A repository to store my HKOI Judge codes.
   * [M1603 Valentine Kisses](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1603%20Valentine%20Kisses.c)
   * [M1803 I love you I love you](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1803%20I%20love%20you%20I%20love%20you.java)
 * HKOI Volume 1 (`hkoi-1`)
+  * [01004 Decryption](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01004%20Decryption.c)
   * [01068 Moliu Sorting I](https://github.com/ArceusMaster0493/hkoi/blob/master/hkoi-1/01068%20Moliu%20Sorting%20I.java)
 
 ### finished tasks
