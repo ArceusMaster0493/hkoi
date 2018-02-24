@@ -52,6 +52,7 @@ A repository to store my HKOI Judge codes.
   * [D802 Bubble sort](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D802%20Bubble%20sort.c)
 * Junior Past Paper (`junior`)
   * [J024 Statistical Analysis](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J024%20Statistic%20Analysis.c)
+  * [J100 Enumeration (2010 Junior)](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J100%20Enumeration%20(2010%20Junior).c)
 * Senior Past Paper (`senior`)
   * [S140 Enumeration (2014 Senior)](https://github.com/ArceusMaster0493/hkoi/blob/master/senior/S140%20Enumeration%20(2014%20Senior).c)
 * Mini-comp Past Paper (`mini-comp`)
