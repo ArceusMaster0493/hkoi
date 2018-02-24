@@ -61,6 +61,7 @@ A repository to store my HKOI Judge codes.
   * [M17A0 Terms and Conditions](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A0%20Terms%20and%20Conditions.c)
   * [M17A2 Different Languages](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A2%20Different%20Languages.c)
   * [M17A3 A+B or A-B?](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A3%20A%2BB%20or%20A-B%3F.c)
+  * [M17A5 Hidden Message](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A5%20Hidden%20Message.c)
   * [M17A6 Morse's Circle](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A6%20Morse's%20Circle.c)
   * [M17A9 Go to School by Bus](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A9%20Go%20to%20School%20by%20Bus.cpp)
   * [M1801 Two-cube Calendar](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1801%20Two-cube%20Calendar.c)
