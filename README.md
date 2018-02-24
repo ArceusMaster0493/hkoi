@@ -59,6 +59,7 @@ A repository to store my HKOI Judge codes.
   * [M1033 Simple Game](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1033%20Simple%20Game.c)
   * [M1601 Valentine Day of Week](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1601%20Valentine%20Day%20of%20Week.c)
   * [M17A0 Terms and Conditions](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A0%20Terms%20and%20Conditions.c)
+  * [M17A1 HKOI](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A1%20HKOI.c)
   * [M17A2 Different Languages](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A2%20Different%20Languages.c)
   * [M17A3 A+B or A-B?](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A3%20A%2BB%20or%20A-B%3F.c)
   * [M17A5 Hidden Message](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A5%20Hidden%20Message.c)
