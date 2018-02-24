@@ -8,7 +8,6 @@ A repository to store my HKOI Judge codes.
 
 ### tasks being worked on
 * DSE Exercises (`dse`)
-  * [D304 Hangman](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D304%20Hangman.c)
   * [D401 Sieve of Eratosthenes](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D401%20Sieve%20of%20Eratosthenes.java)
 * Junior Past Paper (`junior`)
   * [J151 Inverse Problem](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J151%20Inverse%20Problem.cpp)
@@ -41,6 +40,7 @@ A repository to store my HKOI Judge codes.
   * [D301 Story generator](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D301%20Story%20generator.c)
   * [D302 String length and words](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D302%20String%20length%20and%20words.c)
   * [D303 String reverse and palindrome](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D303%20String%20reverse%20and%20palindrome.c)
+  * [D304 Hangman](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D304%20Hangman.c)
   * [D305 Check digit calculation](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D305%20Check%20digit%20calculation.c)
   * [D307 Tic-tac-toe](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D307%20Tic-tac-toe.c)
   * [D309 Case-insensitive comparison](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D309%20Case-insensitive%20comparison.java)
