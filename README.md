@@ -68,6 +68,8 @@ A repository to store my HKOI Judge codes.
   * [M17A6 Morse's Circle](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A6%20Morse's%20Circle.c)
   * [M17A9 Go to School by Bus](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M17A9%20Go%20to%20School%20by%20Bus.cpp)
   * [M1801 Two-cube Calendar](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1801%20Two-cube%20Calendar.c)
+  * [M1811 Almost Constant](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1811%20Almost%20Constant.java)
+  * [M1812 Rainbow Necklace](https://github.com/ArceusMaster0493/hkoi/blob/master/mini-comp/M1812%20Rainbow%20Necklace.java)
 * NOIP Past Paper (`noip`)
   * [NP1301 計數問題](https://github.com/ArceusMaster0493/hkoi/blob/master/noip/NP1301%20%E8%A8%88%E6%95%B8%E5%95%8F%E9%A1%8C.c)
 * HKOI Volume 1 (`hkoi-1`)
