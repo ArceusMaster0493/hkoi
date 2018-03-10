@@ -8,6 +8,7 @@ A repository to store my HKOI Judge codes.
 
 ### tasks being worked on
 * DSE Exercises (`dse`)
+  * [D202 Factors](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D202%20Factors.c)
   * [D401 Sieve of Eratosthenes](https://github.com/ArceusMaster0493/hkoi/blob/master/dse/D401%20Sieve%20of%20Eratosthenes.java)
 * Junior Past Paper (`junior`)
   * [J042 Currency Exchange](https://github.com/ArceusMaster0493/hkoi/blob/master/junior/J042%20Currency%20Exchange.c)
